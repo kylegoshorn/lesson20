@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Comic Book Heroes</title>
+  <desc id="description">A colorful comic book action burst with the words Heroes Assemble</desc>
+  <rect width="1200" height="400" fill="#173b66"/>
+  <g fill="#2f5682">
+    <circle cx="35" cy="35" r="7"/><circle cx="85" cy="35" r="7"/><circle cx="135" cy="35" r="7"/><circle cx="185" cy="35" r="7"/><circle cx="235" cy="35" r="7"/><circle cx="285" cy="35" r="7"/><circle cx="335" cy="35" r="7"/><circle cx="385" cy="35" r="7"/><circle cx="435" cy="35" r="7"/><circle cx="485" cy="35" r="7"/><circle cx="535" cy="35" r="7"/><circle cx="585" cy="35" r="7"/><circle cx="635" cy="35" r="7"/><circle cx="685" cy="35" r="7"/><circle cx="735" cy="35" r="7"/><circle cx="785" cy="35" r="7"/><circle cx="835" cy="35" r="7"/><circle cx="885" cy="35" r="7"/><circle cx="935" cy="35" r="7"/><circle cx="985" cy="35" r="7"/><circle cx="1035" cy="35" r="7"/><circle cx="1085" cy="35" r="7"/><circle cx="1135" cy="35" r="7"/><circle cx="1185" cy="35" r="7"/>
+  </g>
+  <polygon points="600,15 670,105 805,50 790,150 1030,110 850,215 1120,320 790,285 730,390 625,305 515,390 475,285 90,335 350,220 130,95 445,150 435,55 555,110" fill="#ffe66d" stroke="#111827" stroke-width="16" stroke-linejoin="round"/>
+  <polygon points="600,82 655,135 745,105 725,173 870,162 758,224 900,290 718,274 673,335 610,286 535,337 514,275 335,302 454,224 350,150 500,176 492,110 563,143" fill="#e63946" stroke="#111827" stroke-width="12" stroke-linejoin="round"/>
+  <text x="600" y="215" text-anchor="middle" fill="white" stroke="#111827" stroke-width="9" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="3">HEROES</text>
+  <text x="600" y="280" text-anchor="middle" fill="#8be0ff" stroke="#111827" stroke-width="8" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="900" letter-spacing="8">ASSEMBLE!</text>
+</svg>
