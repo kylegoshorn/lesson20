@@ -53,6 +53,9 @@ nav {
   padding: 14px;
   text-align: center;
   background-color: #111827;
+  position: sticky;
+  top: 0;
+  z-index: 5;
 }
 
 nav a {
@@ -83,6 +86,27 @@ main {
   object-fit: cover;
   border: 5px solid #111827;
   margin-bottom: 22px;
+}
+
+.banner-image {
+  max-height: 300px;
+}
+
+.profile-image {
+  display: block;
+  width: 100%;
+  max-width: 540px;
+  max-height: 560px;
+  margin: 0 auto 24px;
+  object-fit: cover;
+  object-position: top center;
+  border: 5px solid #111827;
+  box-shadow: 7px 7px 0 #b8c4d6;
+}
+
+.wide-image {
+  max-width: 100%;
+  max-height: 420px;
 }
 
 .comic-box {
@@ -117,6 +141,50 @@ main {
   background-color: #dbe3ed;
 }
 
+.blue-box {
+  background-color: #dff3ff;
+}
+
+.dc-box {
+  background-color: #dff3ff;
+  border-color: #173b66;
+  box-shadow: 6px 6px 0 #e63946;
+}
+
+.debate-label {
+  margin: 0 0 5px;
+  color: #e63946;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.opinion-note,
+.superman-box {
+  border-left: 8px solid #e63946;
+}
+
+.dc-box {
+  background-color: #dff3ff;
+  border-color: #173b66;
+  box-shadow: 6px 6px 0 #e63946;
+}
+
+.debate-label {
+  margin: 0 0 5px;
+  color: #e63946;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.opinion-note {
+  padding: 10px;
+  background-color: white;
+  border-left: 6px solid #ffe66d;
+  font-weight: bold;
+}
+
 .sound-effect {
   width: fit-content;
   margin: 30px auto 10px;
@@ -136,6 +204,11 @@ main {
 .gold-effect {
   background-color: #ffd447;
   color: #173b66;
+}
+
+.flash-effect {
+  background-color: #e63946;
+  color: #ffe66d;
 }
 
 footer {
